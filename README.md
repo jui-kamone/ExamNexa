@@ -1,36 +1,37 @@
 #ExamNexa
-Contents
+Contents{
+About the Software,
+Software Design,
+Software Optimizations,
+Software Diagrams,
+Flow of Control,
+Entity Relationship Diagram.
+Database Design.
+Relationships Among Table within Database,
+Demonstration Images of the Software,
+Admin Profile,
+Registration Page,
+Login Page,
+Welcome Page of Admin-Side,
+Viewing Your Profile Details,
+Adding a Subject.
+Viewing Created Subjects,
+Deleting a Created Subject,
+Adding a Quiz 17,
+Adding Questions to a Quiz,
+Viewing Created Quizzes,
+Updating Quiz Information,
+Viewing the Result for a Quiz as a Professor,
+Student Profile,
+View All Quizzes,
+View Quizzes of a Particular Subject,
+Starting a Quiz,
+Viewing the Result for a Quiz,
+}
+
+
 About the Software
-Software Design
-Software Optimizations
-Software Diagrams
-Flow of Control
-Entity Relationship Diagram
-Database Design
-Relationships Among Table within Database
-Demonstration Images of the Software
-Admin Profile
-Registration Page
-Login Page
-Welcome Page of Admin-Side
-Viewing Your Profile Details
-Adding a Subject
-Viewing Created Subjects
-Deleting a Created Subject
-Adding a Quiz 17
-Adding Questions to a Quiz
-Viewing Created Quizzes
-Updating Quiz Information
-Viewing the Result for a Quiz as a Professor
-Student Profile
-View All Quizzes
-View Quizzes of a Particular Subject
-Starting a Quiz
-Viewing the Result for a Quiz
-
-
-
-About the Software
+//
 ExamNexa is a software that provides professors a user-friendly platform to host quizzes for all of their courses while ensuring that these quizzes are answered by students in an ethical manner.
 
 There are 2 types of profiles that are available in Exam Dojo
